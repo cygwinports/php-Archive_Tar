@@ -1,5 +1,5 @@
 category: PHP
-requires: php
+requires: php php-bz2 php-zlib
 sdesc: "PHP class for creating and managing tarballs"
 ldesc: "The Archive_Tar class helps in creating and managing GNU TAR 
 format files compressed by GNU ZIP or not. The class offers basic 
