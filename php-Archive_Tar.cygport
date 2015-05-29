@@ -2,7 +2,7 @@ PHP_CHANNEL=pear
 inherit php
 
 NAME="php-Archive_Tar"
-VERSION=1.3.13
+VERSION=1.3.16
 RELEASE=1
 CATEGORY="PHP"
 SUMMARY="PHP class for creating and managing tarballs"
@@ -11,3 +11,5 @@ files compressed by Gzip or not. The class offers basic functions like creating
 an archive, adding files in the archive, extracting files from the archive and
 listing the archive content."
 REQUIRES="php-bz2 php-zlib"
+
+ARCH=noarch
